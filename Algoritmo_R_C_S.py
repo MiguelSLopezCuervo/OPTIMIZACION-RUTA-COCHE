@@ -14,7 +14,6 @@ Algoritmo RCS (Reduce Coste Siempre):
     
     4º Si es menor el coste, se lo queda, si es mayor, lo desecha
     
-HAY QUE PASARLE LA META, EL PUNTO FINAL DEL TRAYECTO
 """
 
 import numpy as np
